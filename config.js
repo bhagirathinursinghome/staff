@@ -18,5 +18,5 @@ window.APP_CONFIG = {
     lat: 24.460804,
     lng: 88.073206
   },
-  RADIUS_METERS: 150
+  RADIUS_METERS: 30
 };
