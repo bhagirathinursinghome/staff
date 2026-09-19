@@ -15,8 +15,8 @@ window.APP_CONFIG = {
   // (dummy coords, converted from 24°27'29.4"N 88°04'07.5"E)
   WORK_LOCATION: {
     label: "Bhagirathi Diagnostic & Health Care",
-    lat: 24.458167,
-    lng: 88.068750
+    lat: 24.460804,
+    lng: 88.073206
   },
   RADIUS_METERS: 150
 };
